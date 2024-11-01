@@ -1,0 +1,57 @@
+{
+    "_readme": [
+        "This file locks the dependencies of your project to a known state",
+        "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
+        "This file is @generated automatically"
+    ],
+    "hash": "0fb153dadfad4055c84c3fa08744028c",
+    "content-hash": "7595c57c40b1604701a02b87a03f7e97",
+    "packages": [
+        {
+            "name": "thumbsniper/tooltip",
+            "version": "dev-master",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/thumbsniper/tooltip.git",
+                "reference": "5f9fb5544ebe8302ab27d86258a6dc51ad2048c9"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/thumbsniper/tooltip/zipball/5f9fb5544ebe8302ab27d86258a6dc51ad2048c9",
+                "reference": "5f9fb5544ebe8302ab27d86258a6dc51ad2048c9",
+                "shasum": ""
+            },
+            "type": "library",
+            "autoload": {
+                "psr-4": {
+                    "ThumbSniper\\": "lib/thumbsniper"
+                }
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "GPL-3.0+"
+            ],
+            "authors": [
+                {
+                    "name": "Thomas Schulte",
+                    "email": "thomas@cupracer.de",
+                    "homepage": "https://www.mynakedgirlfriend.de",
+                    "role": "Project founder"
+                }
+            ],
+            "description": "ThumbSniper Tooltip",
+            "homepage": "https://thumbsniper.com",
+            "time": "2016-12-20 22:24:07"
+        }
+    ],
+    "packages-dev": [],
+    "aliases": [],
+    "minimum-stability": "dev",
+    "stability-flags": {
+        "thumbsniper/tooltip": 20
+    },
+    "prefer-stable": false,
+    "prefer-lowest": false,
+    "platform": [],
+    "platform-dev": []
+}

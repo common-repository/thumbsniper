@@ -1,0 +1,40 @@
+[
+    {
+        "name": "thumbsniper/tooltip",
+        "version": "dev-master",
+        "version_normalized": "9999999-dev",
+        "source": {
+            "type": "git",
+            "url": "https://github.com/thumbsniper/tooltip.git",
+            "reference": "5f9fb5544ebe8302ab27d86258a6dc51ad2048c9"
+        },
+        "dist": {
+            "type": "zip",
+            "url": "https://api.github.com/repos/thumbsniper/tooltip/zipball/5f9fb5544ebe8302ab27d86258a6dc51ad2048c9",
+            "reference": "5f9fb5544ebe8302ab27d86258a6dc51ad2048c9",
+            "shasum": ""
+        },
+        "time": "2016-12-20 22:24:07",
+        "type": "library",
+        "installation-source": "source",
+        "autoload": {
+            "psr-4": {
+                "ThumbSniper\\": "lib/thumbsniper"
+            }
+        },
+        "notification-url": "https://packagist.org/downloads/",
+        "license": [
+            "GPL-3.0+"
+        ],
+        "authors": [
+            {
+                "name": "Thomas Schulte",
+                "email": "thomas@cupracer.de",
+                "homepage": "https://www.mynakedgirlfriend.de",
+                "role": "Project founder"
+            }
+        ],
+        "description": "ThumbSniper Tooltip",
+        "homepage": "https://thumbsniper.com"
+    }
+]
